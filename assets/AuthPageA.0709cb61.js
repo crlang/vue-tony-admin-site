@@ -1,1 +1,0 @@
-import{_ as e}from"./index.dea57c76.js";import{x as t,z as a,A as _}from"./vendor.6c1ff918.js";const o=t({}),s={class:"m-10 auth-page"};function n(r,c,d,p,u,f){return a(),_("div",s,"Admin \u89D2\u8272\u53EF\u89C1")}var l=e(o,[["render",n],["__scopeId","data-v-707f07b6"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{ar as s}from"./index.ccefc80e.js";var o;(function(t){t.ACCOUNT_INFO="/account/getAccountInfo",t.SESSION_TIMEOUT="/user/sessionTimeout",t.TOKEN_EXPIRED="/user/tokenExpired"})(o||(o={}));const n=()=>s.get({url:o.ACCOUNT_INFO}),c=()=>s.post({url:o.SESSION_TIMEOUT}),r=()=>s.post({url:o.TOKEN_EXPIRED});export{n as a,c as s,r as t};
