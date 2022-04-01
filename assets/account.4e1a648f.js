@@ -1,0 +1,1 @@
+import{ar as s}from"./index.ec0491db.js";var o;(function(t){t.ACCOUNT_INFO="/account/getAccountInfo",t.SESSION_TIMEOUT="/user/sessionTimeout",t.TOKEN_EXPIRED="/user/tokenExpired"})(o||(o={}));const n=()=>s.get({url:o.ACCOUNT_INFO}),r=()=>s.post({url:o.SESSION_TIMEOUT}),E=()=>s.post({url:o.TOKEN_EXPIRED});export{n as a,r as s,E as t};
