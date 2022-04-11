@@ -1,1 +1,0 @@
-import{cj as e}from"./ex-pkg-vendor.ab2d902e.js";const t=e({func:void 0,bool:void 0,string:void 0,number:void 0,object:void 0,integer:void 0});t.extend([{name:"style",getter:!0,type:[String,Object],default:void 0},{name:"VNodeChild",getter:!0,type:void 0}]);export{t as p};
