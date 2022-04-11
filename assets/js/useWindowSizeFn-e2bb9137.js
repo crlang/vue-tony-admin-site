@@ -1,0 +1,1 @@
+import{d as o,t as d,u}from"./ex-pkg-@vueuse-7c1f2694.js";function m(i,r=150,n){let e=()=>{i()};e=u(e,r);const t=()=>{n&&n.immediate&&e(),window.addEventListener("resize",e)},s=()=>{window.removeEventListener("resize",e)};return o(()=>{t()}),d(()=>{s()}),[t,s]}export{m as u};
