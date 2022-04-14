@@ -1,0 +1,1 @@
+import{_ as e}from"./index-034694ef.js";import{y as t,z as o,A as s}from"./ex-pkg-@vue-6f720869.js";import"./ex-pkg-element-plus-fdfdae45.js";import"./ex-pkg-vendor-a94c680b.js";import"./ex-pkg-mockjs-2c72399a.js";const r=t({});function p(a,n,c,i,f,m){return o(),s("div",null,"\u5E73\u7EA7\u8BE6\u60C5\u9875")}var k=e(r,[["render",p]]);export{k as default};
