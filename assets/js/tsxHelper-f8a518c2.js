@@ -1,0 +1,1 @@
+import{i as u}from"./index-94a7e7e0.js";function f(n,e="default",i){if(!n||!Reflect.has(n,e))return null;if(!u(n[e]))return console.error(`${e} is not a function!`),null;const r=n[e];return r?r(i):null}export{f as g};

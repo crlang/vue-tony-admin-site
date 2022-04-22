@@ -1,1 +1,0 @@
-import{al as o}from"./index-91eee367.js";var t;(function(e){e.ACCOUNT_INFO="/account/getAccountInfo",e.SESSION_TIMEOUT="/user/sessionTimeout",e.TOKEN_EXPIRED="/user/tokenExpired"})(t||(t={}));const s=()=>o.get({url:t.ACCOUNT_INFO}),r=()=>o.post({url:t.TOKEN_EXPIRED});export{s as a,r as t};
