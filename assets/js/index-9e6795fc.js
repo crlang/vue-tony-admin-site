@@ -1,0 +1,1 @@
+import{am as a,w as i}from"./index-26bedde3.js";import{g as t}from"./tsxHelper-ab68d96a.js";import{y as u}from"./ex-pkg-@vue-feb543c0.js";const m=u({name:"Authority",props:{value:{type:[Number,Array,String],default:""}},setup(n,{slots:e}){const{hasPermission:s}=a();function o(){const{value:r}=n;return r?s(r)?t(e):null:t(e)}return()=>o()}}),c=i(m);export{c as A};
