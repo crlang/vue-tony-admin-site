@@ -1,1 +1,0 @@
-import{_ as e}from"./index-26bedde3.js";import{y as o,z as r,A as a}from"./ex-pkg-@vue-feb543c0.js";import"./ex-pkg-element-plus-f609432a.js";import"./ex-pkg-vendor-bb3f8859.js";import"./ex-pkg-mockjs-ec7a233b.js";const n=o({name:"FrameBlank"});function s(t,p,m,c,f,i){return r(),a("div")}var j=e(n,[["render",s]]);export{j as default};

@@ -1,0 +1,1 @@
+import{_ as e,d as t,o as a,f as o}from"./index.b263d89e.js";const n=t({}),s={class:"m-10 auth-page"};function r(_,c,d,p,u,f){return a(),o("div",s,"Admin \u89D2\u8272\u53EF\u89C1")}var l=e(n,[["render",r],["__scopeId","data-v-707f07b6"]]);export{l as default};
