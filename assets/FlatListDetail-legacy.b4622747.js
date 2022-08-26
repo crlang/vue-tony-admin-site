@@ -1,0 +1,1 @@
+System.register(["./index-legacy.65fa1ffc.js"],(function(e){"use strict";var t,n,r,u;return{setters:[function(e){t=e._,n=e.d,r=e.o,u=e.f}],execute:function(){var f=n({});e("default",t(f,[["render",function(e,t,n,f,c,i){return r(),u("div",null,"平级详情页")}]]))}}}));

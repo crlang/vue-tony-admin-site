@@ -1,0 +1,1 @@
+System.register(["./index-legacy.65fa1ffc.js"],(function(e){"use strict";var t,n,r,a;return{setters:[function(e){t=e._,n=e.d,r=e.o,a=e.f}],execute:function(){var c=n({}),f={class:"m-10 auth-page"};e("default",t(c,[["render",function(e,t,n,c,s,u){return r(),a("div",f,"Admin 角色可见")}],["__scopeId","data-v-707f07b6"]]))}}}));

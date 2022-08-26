@@ -1,0 +1,1 @@
+import{N as e,O as a}from"./index.12e2b36d.js";const t=e({header:{type:String,default:""},bodyStyle:{type:a([String,Object,Array]),default:""},shadow:{type:String,values:["always","hover","never"],default:"always"}});export{t as c};
