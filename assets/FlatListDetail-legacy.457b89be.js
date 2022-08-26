@@ -1,0 +1,1 @@
+System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var t,n,r,u;return{setters:[function(e){t=e._,n=e.d,r=e.o,u=e.f}],execute:function(){var c=n({});e("default",t(c,[["render",function(e,t,n,c,i,s){return r(),u("div",null,"平级详情页")}]]))}}}));

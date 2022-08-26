@@ -1,1 +1,0 @@
-const u=(()=>{const r=[];for(let t=1;t<2e4;t++)r.push({title:"\u5217\u8868\u9879"+t});return r})(),e=(()=>{const r=[];for(let t=1;t<200;t++)r.push("\u5217\u8868\u9879"+t);return r})();export{u as d,e as l};

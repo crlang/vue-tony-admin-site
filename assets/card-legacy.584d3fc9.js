@@ -1,0 +1,1 @@
+System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var t,r;return{setters:[function(e){t=e.N,r=e.O}],execute:function(){e("c",t({header:{type:String,default:""},bodyStyle:{type:r([String,Object,Array]),default:""},shadow:{type:String,values:["always","hover","never"],default:"always"}}))}}}));
