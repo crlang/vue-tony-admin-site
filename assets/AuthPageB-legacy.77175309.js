@@ -1,0 +1,1 @@
+System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var t,n,r,a;return{setters:[function(e){t=e._,n=e.d,r=e.o,a=e.f}],execute:function(){var c=n({}),s={class:"m-10 auth-page"};e("default",t(c,[["render",function(e,t,n,c,u,d){return r(),a("div",s,"Test 角色可见")}],["__scopeId","data-v-a93c999a"]]))}}}));

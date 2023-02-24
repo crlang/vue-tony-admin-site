@@ -1,0 +1,1 @@
+System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.dn}],execute:function(){e("d",(function(e){return t.get({url:"/table/getDemoList",params:e,headers:{ignoreCancelToken:!0}})}))}}}));

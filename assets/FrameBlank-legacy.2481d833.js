@@ -1,0 +1,1 @@
+System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var n,t,r,u;return{setters:[function(e){n=e._,t=e.d,r=e.o,u=e.f}],execute:function(){var c=t({name:"FrameBlank"});e("default",n(c,[["render",function(e,n,t,c,i,a){return r(),u("div")}]]))}}}));
