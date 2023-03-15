@@ -1,0 +1,1 @@
+System.register(["./index-legacy-db4b469e.js"],(function(t){"use strict";var e;return{setters:[function(t){e=t.fz}],execute:function(t,n){t("a",(function(){return e.get({url:"/account/getAccountInfo"})})),t("t",(function(){return e.post({url:"/user/tokenExpired"})}))}}}));

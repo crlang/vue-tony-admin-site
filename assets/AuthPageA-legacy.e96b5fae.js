@@ -1,1 +1,0 @@
-System.register(["./index-legacy.cd308252.js"],(function(e){"use strict";var t,n,r,c;return{setters:[function(e){t=e._,n=e.d,r=e.o,c=e.f}],execute:function(){var s=n({}),u={class:"m-10 auth-page"};e("default",t(s,[["render",function(e,t,n,s,a,d){return r(),c("div",u,"Admin 角色可见")}],["__scopeId","data-v-707f07b6"]]))}}}));

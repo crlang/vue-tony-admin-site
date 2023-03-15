@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/index.34654fb3.js
-import{_ as a,d as r,bm as s,c as o,b as n,e as u,o as p,j as c,i as m,m as i,t as d}from"./index.12e2b36d.js";const _=r({name:"TestTab",components:{},setup(){const{currentRoute:e}=s();return{params:o(()=>n(e).params)}}});function f(e,l,C,x,b,B){const t=u("PageWrapper");return p(),c(t,{title:"\u5E26\u53C2\u6570\u6807\u7B7E\u9875",description:"\u652F\u6301\u5E26\u53C2\u6570\u591Atab\u7F13\u5B58"},{default:m(()=>[i(" Current Param : "+d(e.params),1)]),_:1})}var g=a(_,[["render",f]]);export{g as default};
-========
-import{_ as a,d as r,bj as s,c as o,b as n,e as u,o as p,j as c,i as m,m as i,t as d}from"./index.61be89a1.js";const _=r({name:"TestTab",components:{},setup(){const{currentRoute:e}=s();return{params:o(()=>n(e).params)}}});function f(e,l,C,x,b,B){const t=u("PageWrapper");return p(),c(t,{title:"\u5E26\u53C2\u6570\u6807\u7B7E\u9875",description:"\u652F\u6301\u5E26\u53C2\u6570\u591Atab\u7F13\u5B58"},{default:m(()=>[i("Current Param : "+d(e.params),1)]),_:1})}var g=a(_,[["render",f]]);export{g as default};
->>>>>>>> 8639c16ee1bdf131236610745881512f6ca8b8ca:assets/index.5480bc20.js

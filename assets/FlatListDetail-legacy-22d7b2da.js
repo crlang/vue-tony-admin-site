@@ -1,0 +1,1 @@
+System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var t,n,r,u;return{setters:[function(e){t=e._,n=e.d,r=e.o,u=e.f}],execute:function(e,i){var c=n({});e("default",t(c,[["render",function(e,t,n,i,c,s){return r(),u("div",null,"平级详情页")}]]))}}}));

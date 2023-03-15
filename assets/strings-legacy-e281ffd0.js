@@ -1,0 +1,1 @@
+System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.aI}],execute:function(e,n){e("e",(function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"";return e.replace(/[|\\{}()[\]^$+*?.]/g,"\\$&").replace(/-/g,"\\x2d")})),e("c",(function(e){return t(e)}))}}}));

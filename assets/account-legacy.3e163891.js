@@ -1,1 +1,0 @@
-System.register(["./index-legacy.65fa1ffc.js"],(function(t){"use strict";var e;return{setters:[function(t){e=t.dp}],execute:function(){t("a",(function(){return e.get({url:"/account/getAccountInfo"})})),t("t",(function(){return e.post({url:"/user/tokenExpired"})}))}}}));

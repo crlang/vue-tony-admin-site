@@ -1,0 +1,1 @@
+System.register([],(function(t){"use strict";return{execute:function(t,n){t("G","https://github.com/crlang/vue-tony-admin"),t("D","http://tony.crlang.com/doc/"),t("S","http://tony.crlang.com/")}}}));

@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/useScript.a052b2ee.js
-import{r,Y as i,ab as f}from"./index.12e2b36d.js";function p(a){const s=r(!1),o=r(!1),t=r(!1);let e;const n=new Promise((u,c)=>{i(()=>{e=document.createElement("script"),e.type="text/javascript",e.onload=function(){s.value=!1,t.value=!0,o.value=!1,u("")},e.onerror=function(l){s.value=!1,t.value=!1,o.value=!0,c(l)},e.src=a.src,document.head.appendChild(e)})});return f(()=>{e&&e.remove()}),{isLoading:s,error:o,success:t,toPromise:()=>n}}export{p as u};
-========
-import{r,Y as i,ab as f}from"./index.61be89a1.js";function p(a){const s=r(!1),o=r(!1),t=r(!1);let e;const n=new Promise((u,c)=>{i(()=>{e=document.createElement("script"),e.type="text/javascript",e.onload=function(){s.value=!1,t.value=!0,o.value=!1,u("")},e.onerror=function(l){s.value=!1,t.value=!1,o.value=!0,c(l)},e.src=a.src,document.head.appendChild(e)})});return f(()=>{e&&e.remove()}),{isLoading:s,error:o,success:t,toPromise:()=>n}}export{p as u};
->>>>>>>> 8639c16ee1bdf131236610745881512f6ca8b8ca:assets/useScript.031fee6e.js

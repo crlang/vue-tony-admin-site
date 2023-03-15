@@ -1,0 +1,1 @@
+import{d as a,fR as i,aE as u}from"./index.a812ffa9.js";import{g as e}from"./tsxHelper.25cd2f92.js";const m=a({name:"Authority",props:{value:{type:[Number,Array,String],default:""}},setup(n,{slots:t}){const{hasPermission:o}=i();function s(){const{value:r}=n;return r?o(r)?e(t):null:e(t)}return()=>s()}}),l=u(m);export{l as A};

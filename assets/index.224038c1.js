@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/index.224038c1.js
-import{d as c,bm as p,b as _,o as i,f as l}from"./index.12e2b36d.js";const h=c({__name:"index",setup(m){const{currentRoute:o,replace:a}=p(),{params:e,query:n}=_(o),{path:r,_redirect_type:s="path"}=e;Reflect.deleteProperty(e,"_redirect_type"),Reflect.deleteProperty(e,"path");const t=Array.isArray(r)?r.join("/"):r;return a(s==="name"?{name:t,query:n,params:e}:{path:t.startsWith("/")?t:`/${t}`,query:n}),(u,d)=>(i(),l("div"))}});export{h as default};
-========
-import{d as c,bj as p,b as _,o as i,f as l}from"./index.61be89a1.js";const h=c({__name:"index",setup(u){const{currentRoute:o,replace:a}=p(),{params:e,query:n}=_(o),{path:r,_redirect_type:s="path"}=e;Reflect.deleteProperty(e,"_redirect_type"),Reflect.deleteProperty(e,"path");const t=Array.isArray(r)?r.join("/"):r;return a(s==="name"?{name:t,query:n,params:e}:{path:t.startsWith("/")?t:`/${t}`,query:n}),(d,f)=>(i(),l("div"))}});export{h as default};
->>>>>>>> 8639c16ee1bdf131236610745881512f6ca8b8ca:assets/index.fc5d4e1e.js

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var n,t,r,s;return{setters:[function(e){n=e._,t=e.d,r=e.o,s=e.f}],execute:function(e,u){var c=t({name:"Menu12Demo",components:{}}),i={class:"p-5"};e("default",n(c,[["render",function(e,n,t,u,c,o){return r(),s("div",i,"多层级缓存-页面1-2")}]]))}}}));

@@ -1,1 +1,0 @@
-System.register(["./index-legacy.65fa1ffc.js"],(function(e){"use strict";var t,a,n,r;return{setters:[function(e){t=e._,a=e.d,n=e.o,r=e.f}],execute:function(){var c=a({}),s={class:"m-10 auth-page"};e("default",t(c,[["render",function(e,t,a,c,u,f){return n(),r("div",s,"Test 角色可见")}],["__scopeId","data-v-a93c999a"]]))}}}));

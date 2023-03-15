@@ -1,1 +1,0 @@
-System.register(["./index-legacy.65fa1ffc.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.dp}],execute:function(){e("d",(function(e){return t.get({url:"/table/getDemoList",params:e,headers:{ignoreCancelToken:!0}})}))}}}));

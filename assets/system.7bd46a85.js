@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/system.40c8cc41.js
-import{dp as s}from"./index.12e2b36d.js";const a=t=>s.get({url:"/system/getAccountList",params:t}),g=t=>s.get({url:"/system/getDeptList",params:t}),l=t=>s.get({url:"/system/getMenuList",params:t}),c=t=>s.get({url:"/system/getRoleListByPage",params:t}),i=t=>s.get({url:"/system/getAllRoleList",params:t}),n=(t,e)=>s.post({url:"/system/setRoleStatus",params:{id:t,status:e}}),r=t=>s.post({url:"/system/accountExist",params:{account:t}},{errorMessageMode:"none"});export{g as a,i as b,c,l as d,a as g,r as i,n as s};
-========
-import{dn as s}from"./index.61be89a1.js";const a=t=>s.get({url:"/system/getAccountList",params:t}),g=t=>s.get({url:"/system/getDeptList",params:t}),l=t=>s.get({url:"/system/getMenuList",params:t}),c=t=>s.get({url:"/system/getRoleListByPage",params:t}),n=t=>s.get({url:"/system/getAllRoleList",params:t}),i=(t,e)=>s.post({url:"/system/setRoleStatus",params:{id:t,status:e}}),r=t=>s.post({url:"/system/accountExist",params:{account:t}},{errorMessageMode:"none"});export{n as a,g as b,c,l as d,a as g,r as i,i as s};
->>>>>>>> 8639c16ee1bdf131236610745881512f6ca8b8ca:assets/system.7bd46a85.js
