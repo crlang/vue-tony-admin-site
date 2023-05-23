@@ -1,1 +1,0 @@
-import{cG as u}from"./index.a812ffa9.js";function i(n,r="default",e){if(!n||!Reflect.has(n,r))return null;if(typeof n[r]!="function")return u(`${r} is not a slot function!`),null;const t=n[r];return t?t(e):null}export{i as g};

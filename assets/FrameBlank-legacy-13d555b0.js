@@ -1,1 +1,0 @@
-System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var n,t,r,u;return{setters:[function(e){n=e._,t=e.d,r=e.o,u=e.f}],execute:function(e,i){var a=t({name:"FrameBlank"});e("default",n(a,[["render",function(e,n,t,i,a,c){return r(),u("div")}]]))}}}));

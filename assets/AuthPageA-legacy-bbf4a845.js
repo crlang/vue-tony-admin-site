@@ -1,1 +1,0 @@
-System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var t,n,r,s;return{setters:[function(e){t=e._,n=e.d,r=e.o,s=e.f}],execute:function(e,u){var a=n({}),c={class:"m-10 auth-page"};e("default",t(a,[["render",function(e,t,n,u,a,d){return r(),s("div",c,"Admin 角色可见")}],["__scopeId","data-v-707f07b6"]]))}}}));

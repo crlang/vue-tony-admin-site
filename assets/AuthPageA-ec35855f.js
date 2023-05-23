@@ -1,0 +1,1 @@
+import{E as e,p as t,q as o}from"./vue-d691a816.js";import{_}from"./index-795cdaa0.js";import"./elementui-66980f2a.js";const s=e({});const a={class:"m-10 auth-page"};function n(c,p,r,u,d,i){return t(),o("div",a,"Admin 角色可见")}const h=_(s,[["render",n],["__scopeId","data-v-e0618e7f"]]);export{h as default};

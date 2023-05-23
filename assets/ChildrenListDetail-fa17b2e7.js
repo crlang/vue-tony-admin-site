@@ -1,0 +1,1 @@
+import{E as t,ac as o,p as a,I as n,J as s,t as r}from"./vue-d691a816.js";import{_ as u}from"./index-795cdaa0.js";import"./elementui-66980f2a.js";const p=t({components:{}}),c=r("div",null,"子级详情页内容在此",-1);function i(_,d,l,m,B,f){const e=o("PageWrapper");return a(),n(e,{title:"子级详情页"},{default:s(()=>[c]),_:1})}const x=u(p,[["render",i]]);export{x as default};

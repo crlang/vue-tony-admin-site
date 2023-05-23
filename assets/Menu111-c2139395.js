@@ -1,0 +1,1 @@
+import{E as e,p as o,q as n}from"./vue-d691a816.js";import{_ as t}from"./index-795cdaa0.js";import"./elementui-66980f2a.js";const s=e({name:"Menu111Demo",components:{}}),c={class:"p-5"};function r(p,a,u,m,_,i){return o(),n("div",c,"多层级缓存-页面1-1-1")}const $=t(s,[["render",r]]);export{$ as default};

@@ -1,1 +1,0 @@
-System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var t,n,r,a;return{setters:[function(e){t=e._,n=e.d,r=e.o,a=e.f}],execute:function(e,s){var c=n({}),u={class:"m-10 auth-page"};e("default",t(c,[["render",function(e,t,n,s,c,d){return r(),a("div",u,"Test 角色可见")}],["__scopeId","data-v-a93c999a"]]))}}}));

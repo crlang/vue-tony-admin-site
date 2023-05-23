@@ -1,1 +1,0 @@
-System.register([],(function(e){"use strict";return{execute:function(e,t){e("h","/vue-tony-admin-site/assets/header.0371c846.jpg")}}}));

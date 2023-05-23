@@ -1,1 +1,0 @@
-System.register(["./index-legacy-db4b469e.js"],(function(e){"use strict";var t,r;return{setters:[function(e){t=e.Q,r=e.as}],execute:function(e,i){e("d",t({border:{type:Boolean,default:!1},column:{type:Number,default:3},direction:{type:String,values:["horizontal","vertical"],default:"horizontal"},size:r,title:{type:String,default:""},extra:{type:String,default:""}}))}}}));

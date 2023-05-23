@@ -1,0 +1,1 @@
+import{a6 as o,a4 as a,u as d}from"./elementui-66980f2a.js";function c(r,s=150,n){let e=()=>{r()};e=d(e,s);const t=()=>{n&&n.immediate&&e(),window.addEventListener("resize",e)},i=()=>{window.removeEventListener("resize",e)};return o(()=>{t()}),a(()=>{i()}),[t,i]}export{c as u};

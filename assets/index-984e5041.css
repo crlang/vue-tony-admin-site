@@ -1,0 +1,1 @@
+.tony-app-icon{display:inline-flex;align-self:center;justify-self:center}.tony-app-icon svg{width:1em;height:1em}.tony-app-icon-spin svg{animation:iconLoadingCircle 1s infinite linear}@keyframes iconLoadingCircle{to{transform:rotate(360deg)}}span.iconify{display:block;min-width:1em;min-height:1em;background-color:#5555550f;border-radius:100%}

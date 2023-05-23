@@ -1,0 +1,1 @@
+import{E as t,p as e,q as o}from"./vue-d691a816.js";import{_ as n}from"./index-795cdaa0.js";import"./elementui-66980f2a.js";const r=t({});function s(a,c,p,i,u,_){return e(),o("div",null,"平级详情页")}const d=n(r,[["render",s]]);export{d as default};

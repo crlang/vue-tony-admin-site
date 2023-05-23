@@ -1,1 +1,0 @@
-import{_ as t,d as o,e as n,o as s,k as a,i as u,g as r}from"./index.a812ffa9.js";const c=o({components:{}}),p=r("div",null,"\u5B50\u7EA7\u8BE6\u60C5\u9875\u5185\u5BB9\u5728\u6B64",-1);function _(i,d,l,B,f,m){const e=n("PageWrapper");return s(),a(e,{title:"\u5B50\u7EA7\u8BE6\u60C5\u9875"},{default:u(()=>[p]),_:1})}const h=t(c,[["render",_]]);export{h as default};

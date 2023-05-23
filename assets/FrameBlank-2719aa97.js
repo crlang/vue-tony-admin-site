@@ -1,0 +1,1 @@
+import{E as e,p as o,q as n}from"./vue-d691a816.js";import{_ as r}from"./index-795cdaa0.js";import"./elementui-66980f2a.js";const t=e({name:"FrameBlank"});function a(s,c,p,m,_,f){return o(),n("div")}const k=r(t,[["render",a]]);export{k as default};
